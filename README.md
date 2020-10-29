@@ -1,4 +1,4 @@
-# food-bot
+# Food Bot
 This is a bot that sends a random food emoji when you type `food` in chat.
 
 ## Installation
